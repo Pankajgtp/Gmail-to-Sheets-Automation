@@ -1,0 +1,22 @@
+# Python virtual environment
+venv/
+__pycache__/
+*.pyc
+
+# Credentials and tokens (sensitive!)
+credentials/
+token.json
+token_sheets.json
+
+# State files (runtime data)
+state/
+*.json
+
+# Logs
+*.log
+
+# OS / Editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
