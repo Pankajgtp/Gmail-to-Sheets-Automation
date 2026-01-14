@@ -4,6 +4,7 @@ __pycache__/
 *.pyc
 
 # Credentials and tokens (sensitive!)
+credentials/credentials.json
 token.json
 token_sheets.json
 
