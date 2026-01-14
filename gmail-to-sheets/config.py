@@ -1,7 +1,7 @@
 import os
 
 # Spreadsheet configuration
-SPREADSHEET_ID = os.getenv("SPREADSHEET_ID","1mrCg4A-2rrjFBaQ9ngtvzuEJrfmpYsWRLVxGZyPl1gU")  # set via .env or environment
+SPREADSHEET_ID = os.getenv("SPREADSHEET_ID","example=9ngtvzuEJrfmpYsWRLVxGZyPl1gU")  # set via .env or environment
 SHEET_NAME = os.getenv("SHEET_NAME", "Emails")
 
 # Gmail query: unread inbox only
