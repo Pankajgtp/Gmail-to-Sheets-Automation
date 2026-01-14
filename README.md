@@ -20,7 +20,7 @@ Key features:
 ---
 
 ## 🏗️ Architecture Diagram
-![Architecture Diagram](gmail-to-sheets\proof\images\archi_diagram.png)
+![Architecture Diagram](gmail-to-sheets/proof/images/archi_diagram.png)
 
 ## ⚙️ Setup Instructions
 
